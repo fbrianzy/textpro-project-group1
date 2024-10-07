@@ -1,0 +1,17 @@
+Keterangan Project:
+
+1. Alasan mengambil project ini:
+Project ini bertujuan membandingkan rating, ulasan, serta interaksi developer kepada pemain untuk mengetahui game mana yang mempunyai rating tertinggi serta developer yang aktif terhadap pemain. Dari hasil perbandingan tersebut maka kita bisa peroleh mana game yang yang lebih populer.
+
+2. Dari kapan sampai kapan data yang diambil:
+Project ini menggunakan library yang sudah disediakan oleh python untuk memperoleh data dari google playstore, yaitu google-play-scrapper. Pada library tersebut data yang kita ambil adalah random, atau berubah-rubah. Maka dari itu kita tidak bisa menyimpulkan data ini diambil dari kapan sampai kapan, tetapi kita bisa mengurutkan berdasarkan tanggal setelah data didapat.
+
+3. Berapa banyak data yang diambil:
+Project ini mengambil sebanyak 2000 sampel ulasan dan rating untuk setiap game. Kita memakai 4 game sebagai perbandingan, maka total keseluruhan data yang diperoleh adalah 8000 data.
+
+Link game yang diambil datanya untuk project:
+
+MLBB : https://play.google.com/store/apps/details?id=com.mobile.legends&hl=id # Gunakan 'com.mobile.legends' untuk id
+FF : https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=id # Gunakan 'com.dts.freefireth' untuk id
+PUBGM : https://play.google.com/store/apps/details?id=com.tencent.ig&hl=id # Gunakan 'com.tencent.ig' untuk id
+HOK : https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=id # Gunakan 'com.levelinfinite.sgameGlobal' untuk id
