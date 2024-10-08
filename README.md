@@ -20,6 +20,8 @@ Project ini mengambil sebanyak 2000 sampel ulasan dan rating untuk setiap game. 
   <a href="https://play.google.com/store/apps/details?id=com.mobile.legends&hl=id">
     <img src="https://img.shields.io/badge/MLBB-333333?style=for-the-badge&logo=mlbb&logoColor=red" />
   </a>
+    Gunakan 'com.mobile.legends' untuk id MLBB
+  <br>
   <a href="https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=id">
     <img src="https://img.shields.io/badge/FF-333333?style=for-the-badge&logo=mlbb&logoColor=red" />
   </a>
@@ -29,4 +31,14 @@ Project ini mengambil sebanyak 2000 sampel ulasan dan rating untuk setiap game. 
   <a href="https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=id">
     <img src="https://img.shields.io/badge/HOK-333333?style=for-the-badge&logo=mlbb&logoColor=red" />
   </a>
+</div>
+
+<div align="center">
+  Gunakan 'com.mobile.legends' untuk id MLBB
+  <br>
+  Gunakan 'com.dts.freefireth' untuk id FF
+  <br>
+  Gunakan 'com.tencent.ig' untuk id PUBGM
+  <br>
+  Gunakan 'com.levelinfinite.sgameGlobal' untuk id HOK
 </div>
