@@ -1,4 +1,4 @@
-<h1> Keterangan Project : </h1>
+<h1> Keterangan Project: </h1>
 <br>
 <b> 1. Alasan mengambil project ini: </b>
 <br>
